@@ -8,4 +8,6 @@ Wallet Guard - https://github.com/wallet-guard/wallet-guard-extension/archive/re
 
 Instructions for installing - https://www.youtube.com/watch?v=oswjtLwCUqg
 
+If you get a manifest file error it's likely due to you not selecting the proper root directory - open from the directory with the version number.
+
 For the remaining extensions that are not open source you can download them here from my repo.
