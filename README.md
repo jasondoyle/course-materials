@@ -1,5 +1,7 @@
 # course-materials
 
+YouTube video playlist here - https://www.youtube.com/playlist?list=PLNTsqJwFxTX_g8xsDtMLNGabmLXCdKuOt
+
 A few extensions mentioned in the training are open source. Here are the vulnerable versions to follow along with the training:
 
 Revoke.cash - https://github.com/RevokeCash/browser-extension/archive/refs/tags/v0.5.12.zip
